@@ -1,13 +1,13 @@
 {
     "status": "ok",
-    "totalResults": 39,
+    "totalResults": 70,
     "articles": [
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "9to5google.com"
             },
-            "author": null,
+            "author": "News.com",
             "title": "How to downgrade from Android 12 Beta to Android 11 on Google Pixel [Video] - 9to5Google",
             "description": "If you are having problems, you might want to downgrade from the Android 12 to the a stable Android 11 build, this is how to do it.",
             "url": "https://9to5google.com/2021/08/26/how-to-downgrade-from-the-android-12-to-android-11-on-google-pixel/",
@@ -17,20 +17,20 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "India Today"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Realme Narzo 50A first look leaked, dual patterns and huge camera block to feature - India Today",
             "description": "Realme launched the Narzo 30 series earlier this year and its successor may be coming soon.",
             "url": "https://www.indiatoday.in/technology/news/story/realme-narzo-50a-first-look-leaked-dual-patterns-and-huge-camera-block-to-feature-1845557-2021-08-26",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/narzo_50A_render-647x363.jpeg?VCHiDGGwhDBK9O_ot9qemoFHPHAJLc4I",
             "publishedAt": "2021-08-26T07:28:11Z",
-            "content": null
+            "content": "News.com"
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "NDTV News"
             },
             "author": "Tasneem Akolawala",
@@ -43,7 +43,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "LatestLY"
             },
             "author": "IANS",
@@ -56,7 +56,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "GSMArena.com"
             },
             "author": "Yordan",
@@ -69,7 +69,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "India.com"
             },
             "author": "IANS",
@@ -82,7 +82,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Www.bgr.in"
             },
             "author": "Sneha Saha",
@@ -95,7 +95,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "NDTV News"
             },
             "author": "Tasneem Akolawala",
@@ -108,59 +108,33 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "India Today"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Garena Free Fire Redeem Codes for August 26, 2021: How to redeem the codes - India Today",
             "description": "Here is all you need to know about the new active codes from the list of New Garena Free Fire Redeem codes and the steps to redeem them.",
             "url": "https://www.indiatoday.in/information/story/garena-free-fire-redeem-codes-for-august-26-2021-how-to-redeem-the-codes-1845468-2021-08-26",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/photo-1568915567812-757e15929f_7-647x363.jpeg?t9DabbrCLpuPNCHj2iT2yNcN50mz4Ncz",
             "publishedAt": "2021-08-26T04:34:28Z",
-            "content": null
+            "content": "News.com"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Character Teaser - \"Raiden Shogun: Nightmare\" | Genshin Impact - Genshin Impact",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eWRQcUZBRWdIenPSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T04:00:31Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "India Today"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Fitbit Charge 5 with ECG app, always-on display launched: Price, specifications and more - India Today",
             "description": "The Fitbit Charge 5 comes with various and health and fitness tracking features including stress, heart health, sleep and more.",
             "url": "https://www.indiatoday.in/technology/news/story/fitbit-charge-5-with-ecg-app-always-on-display-launched-price-specifications-and-more-1845443-2021-08-26",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/Screenshot_2021-08-26_at_9.04.-647x363.png?KqeqRh7gLOk5t1kKsO5sHTrx7A0ybSif",
             "publishedAt": "2021-08-26T03:37:23Z",
-            "content": null
+            "content": "News.com"
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "The GeForce RTX 3090 Super is Seemingly Going to Feature a TGP of 400 Watts! - WccftechTV",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OXhBU0NZMmI3UTTSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T03:33:04Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "The Indian Express"
             },
             "author": "Tech Desk",
@@ -173,20 +147,20 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "India Today"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Google Doodle celebrates Day 2 of Tokyo Paralympics with animated swimming game - India Today",
             "description": "Google Doodle marked Day 2 of the Tokyo Paralympics with a new animated swimming game on August 26. The Google Doodle page provides information as to how to play the game.",
             "url": "https://www.indiatoday.in/trending-news/story/google-doodle-celebrates-day-2-of-tokyo-paralympics-with-animated-swimming-game-1845432-2021-08-26",
             "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/google_doodle_0-647x363.png?D6xXjmnvusBQCTD89CWxZdYLq7Z.7rcb",
             "publishedAt": "2021-08-26T03:14:15Z",
-            "content": null
+            "content": "News.com"
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "GSMArena.com"
             },
             "author": "Vlad",
@@ -199,7 +173,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "The Indian Express"
             },
             "author": "Tech Desk",
@@ -212,7 +186,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Gadgets Now"
             },
             "author": "Gadgets Now",
@@ -234,11 +208,11 @@
             "url": "https://timesofindia.indiatimes.com/gadgets-news/explained-why-google-pays-apple-billions-of-dollars-every-year/articleshow/85645547.cms",
             "urlToImage": "https://static.toiimg.com/thumb/msid-85645547,width-1070,height-580,imgsize-435065,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
             "publishedAt": "2021-08-26T03:00:00Z",
-            "content": null
+            "content": "News.com"
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "The Indian Express"
             },
             "author": "Tech Desk",
@@ -251,7 +225,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Republic World"
             },
             "author": "Vidyashree S",
@@ -264,23 +238,10 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "The Hyundai i20 N is the best small performance car! - carwow",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ekVkR2ZkcjBRN2PSAQA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T10:05:44Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "HDFC Bank becomes India's first lender to exclusively list $1 billion AT1 bonds in IFSC - Moneycontrol.com",
             "description": "HDFC Bank had launched its $1 billion AT1 bond issue earlier this month, and was able to close the pricing at a level substantially lower than the initial guidance.",
             "url": "https://www.moneycontrol.com/news/business/markets/hdfc-bank-becomes-indias-first-lender-to-exclusively-list-1-billion-at1-bonds-in-ifsc-7392671.html",
@@ -290,7 +251,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Investing.com"
             },
             "author": "Reuters",
@@ -303,23 +264,10 @@
         },
         {
             "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Market LIVE: Nifty ends flat with positive bias at 16,637, Sensex closes at 55,949; RIL gains 1%, Airtel tanks - The Financial Express",
-            "description": null,
-            "url": "https://news.google.com/__i/rss/rd/articles/CBMiygFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9tYXJrZXQvc2hhcmUtbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy1zZW5zZXgtbmlmdHktcnVwZWUtdnMtZG9sbGFyLWZ1dHVyZXMtYW5kLW9wdGlvbnMtZXhwaXJ5LWZvLWV4cGlyeS1mbS1zaXRoYXJhbWFuLXBzYi1sb2FuLW91dHJlYWNoLTI2LWF1Z3VzdC0yMDIxLXRodXJzZGF5LzIzMTc4OTcv0gHPAWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL21hcmtldC9zaGFyZS1tYXJrZXQtdG9kYXktbGl2ZS11cGRhdGVzLXNlbnNleC1uaWZ0eS1ydXBlZS12cy1kb2xsYXItZnV0dXJlcy1hbmQtb3B0aW9ucy1leHBpcnktZm8tZXhwaXJ5LWZtLXNpdGhhcmFtYW4tcHNiLWxvYW4tb3V0cmVhY2gtMjYtYXVndXN0LTIwMjEtdGh1cnNkYXkvMjMxNzg5Ny9saXRlLw?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2021-08-26T09:43:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Logistics startup 3SC eyes Rs 200 crore revenue in FY22 - Moneycontrol.com",
             "description": "Founded in 2012, by Lalit Das and Sarita Das, 3SC offers supply chain analytics solutions to clients across pharma/healthcare, industrials, fast-moving consumer goods (FMCG) and e-commerce industries.",
             "url": "https://www.moneycontrol.com/news/business/startup/logistics-startup-3sc-eyes-rs-200-crore-revenue-in-fy22-7392131.html",
@@ -329,10 +277,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "NDTV News"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Virgin Hyperloop Pods To Connect Cities At 670 mph - NDTV",
             "description": "Virgin Hyperloop has released a video showing its vision for a high-speed transportation system which, it says, will allow passengers to travel at the speed of 670 miles per hour",
             "url": "https://www.ndtv.com/offbeat/virgin-hyperloop-pods-to-connect-cities-at-670-mph-2519222",
@@ -342,10 +290,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Second wave of COVID infections increased bank's asset quality risks: Moody's - Moneycontrol",
             "description": "It said that the second wave of coronavirus infections in India has exacerbated stress among individuals and small businesses that were hit the hardest by the initial outbreak. Still, a number of factors will prevent sharp increases in problem loans, and bank…",
             "url": "https://www.moneycontrol.com/news/world/second-wave-of-covid-infections-increased-banks-asset-quality-risks-moodys-7392521.html",
@@ -355,7 +303,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Analytics Insight"
             },
             "author": "Apoorva Komarraju",
@@ -368,10 +316,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "IT ministry joins hands with Paytm to support deep-tech startups - Moneycontrol.com",
             "description": "Ministry of Electronics and IT (MeitY) Startup Hub and Paytm will provide mentorship and guidance through a Unicorn talk series that aims to inspire new entrepreneurs to build Unicorns from India.",
             "url": "https://www.moneycontrol.com/news/business/startup/it-ministry-joins-hands-with-paytm-to-support-deep-tech-startups-7390351.html",
@@ -381,7 +329,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Team-BHP"
             },
             "author": "Tushar Kelshikar",
@@ -394,7 +342,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Livemint"
             },
             "author": "Livemint",
@@ -407,10 +355,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Reliance Life Sciences seeks nod to start human trials of COVID-19 vaccine: Report - Moneycontrol.com",
             "description": "The unlisted firm’s parent Reliance Industries did not immediately respond to a Reuters request for comment.",
             "url": "https://www.moneycontrol.com/news/trends/health-trends/reliance-life-sciences-seeks-nod-to-start-human-trials-of-covid-19-vaccine-report-7391891.html",
@@ -420,7 +368,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Investing.com"
             },
             "author": "Investing.com",
@@ -446,10 +394,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Hind Rectifiers share price at 52-week high after Cassini Partners LP buys stake - Moneycontrol.com",
             "description": "The share price added 30 percent in the last three days and gained 45 percent in the last year.",
             "url": "https://www.moneycontrol.com/news/business/stocks/hind-rectifiers-share-price-at-52-week-high-after-cassini-partners-lp-buys-stake-7391751.html",
@@ -472,7 +420,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Gadgets Now"
             },
             "author": "Neha Saini",
@@ -485,7 +433,7 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "The Indian Express"
             },
             "author": "ENS Economic Bureau",
@@ -498,10 +446,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "Moneycontrol"
             },
-            "author": null,
+            "author": "News.com",
             "title": "TCS bullish on business from EVs, Tata Super app and telecom services - Moneycontrol",
             "description": "TCS works with Tata Motors on electric vehicles, and other group firms including Tata Steel and Tata Digital, which acquired companies such as BigBasket, 1MG, and is now working on a super app, TCS COO N Ganapathy Subramaniam said",
             "url": "https://www.moneycontrol.com/news/business/tcs-bullish-on-business-from-evs-tata-super-app-and-telecom-services-7390501.html",
@@ -511,10 +459,10 @@
         },
         {
             "source": {
-                "id": null,
+                "id": "News.com",
                 "name": "NDTV News"
             },
-            "author": null,
+            "author": "News.com",
             "title": "Elon Musk's Reaction To Meme Claiming Jeff Bezos's Blue Origin Copied SpaceX - NDTV",
             "description": "Elon Musk posted two laughing emojis in response to a meme claiming Blue Origin copied SpaceX while designing its vertical landing spacecraft.",
             "url": "https://www.ndtv.com/offbeat/elon-musks-reaction-to-meme-claiming-blue-origin-project-jarvis-copied-spacex-2518991",
