@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mari Yamaguchi",
+            "title": "Japan suspends 1.63M doses of Moderna over contamination - Associated Press",
+            "description": "TOKYO (AP) — Japan suspended use of about 1.63 million doses of Moderna vaccine Thursday after contamination was found in unused vials, raising concern of a supply shortage as the country tries to accelerate vaccinations amid a COVID-19 surge.",
+            "url": "https://apnews.com/article/business-health-japan-coronavirus-pandemic-coronavirus-vaccine-c4d8c12f851c534e8ae3002cd58b63aa",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/484dee5c9743456e9f53e4be50105daf/3000.jpeg",
+            "publishedAt": "2021-08-26T06:15:43Z",
+            "content": "TOKYO (AP) Japan suspended use of about 1.63 million doses of Moderna vaccine Thursday after contamination was found in unused vials, raising concern of a supply shortage as the country tries to acce… [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": "Investing.com",
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Asian shares spooked by Delta spread as Jackson Hole looms By Reuters - Investing.com",
+            "description": "Asian shares spooked by Delta spread as Jackson Hole looms",
+            "url": "https://www.investing.com/news/economy/asian-shares-retreat-from-rally-south-korea-raises-rates-2599981",
+            "urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_5_800x533_L_1412601619.jpg",
+            "publishedAt": "2021-08-26T06:15:00Z",
+            "content": "By Alun John HONG KONG (Reuters) - Asian shares retreated on Thursday, brushing off an upbeat Wall Street lead as the Delta coronavirus variant's spread darkened the regional mood while a South Kore… [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "How to downgrade from Android 12 Beta to Android 11 on Google Pixel [Video] - 9to5Google",
+            "description": "If you are having problems, you might want to downgrade from the Android 12 to the a stable Android 11 build, this is how to do it.",
+            "url": "https://9to5google.com/2021/08/26/how-to-downgrade-from-the-android-12-to-android-11-on-google-pixel/",
+            "urlToImage": "https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2021/02/How-to-downgrade-Android-12-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-08-26T08:00:00Z",
+            "content": "If you are not content with the most recent Android 12 Developer Preview or Beta build on your Google Pixel, its probably music to your ears knowing that you can downgrade your OS to a stable version… [+7335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Today"
+            },
+            "author": null,
+            "title": "Realme Narzo 50A first look leaked, dual patterns and huge camera block to feature - India Today",
+            "description": "Realme launched the Narzo 30 series earlier this year and its successor may be coming soon.",
+            "url": "https://www.indiatoday.in/technology/news/story/realme-narzo-50a-first-look-leaked-dual-patterns-and-huge-camera-block-to-feature-1845557-2021-08-26",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202108/narzo_50A_render-647x363.jpeg?VCHiDGGwhDBK9O_ot9qemoFHPHAJLc4I",
+            "publishedAt": "2021-08-26T07:28:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "Tasneem Akolawala",
+            "title": "Mi TV 5X Range With Adaptive Brightness, PatchWall 4 Interface Launched in India: Price, Specifications - Gadgets 360",
+            "description": "Mi TV 5X has launched during the Xiaomi Smarter Living 2022 event. The new television comes with 40W stereo speakers and has a new generation of PatchWall 4 interface. It comes with far-field mics for better Google Assistant service. There’s premium metal bez…",
+            "url": "https://gadgets.ndtv.com/tv/news/mi-tv-5x-price-in-india-rs-31999-41999-47999-launch-sale-date-specifications-2519121",
+            "urlToImage": "https://i.gadgets360cdn.com/large/mi_tv_5x_1629962122324.jpg",
+            "publishedAt": "2021-08-26T07:19:18Z",
+            "content": "Mi TV 5X was launched alongside the Mi Band 6 at the dedicated Xiaomi Smarter Living 2022 event on Thursday. The new television range is an upgrade to the Mi TV 4X range that was unveiled last year. … [+2803 chars]"
+        }
+    ]
+}
