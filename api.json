@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mari Yamaguchi",
+            "title": "Japan suspends 1.63M doses of Moderna over contamination - Associated Press",
+            "description": "TOKYO (AP) — Japan suspended use of about 1.63 million doses of Moderna vaccine Thursday after contamination was found in unused vials, raising concern of a supply shortage as the country tries to accelerate vaccinations amid a COVID-19 surge.",
+            "url": "https://apnews.com/article/business-health-japan-coronavirus-pandemic-coronavirus-vaccine-c4d8c12f851c534e8ae3002cd58b63aa",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/484dee5c9743456e9f53e4be50105daf/3000.jpeg",
+            "publishedAt": "2021-08-26T06:15:43Z",
+            "content": "TOKYO (AP) Japan suspended use of about 1.63 million doses of Moderna vaccine Thursday after contamination was found in unused vials, raising concern of a supply shortage as the country tries to acce… [+1631 chars]"
+        },
+        {
+            "source": {
+                "id": "Investing.com",
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Asian shares spooked by Delta spread as Jackson Hole looms By Reuters - Investing.com",
+            "description": "Asian shares spooked by Delta spread as Jackson Hole looms",
+            "url": "https://www.investing.com/news/economy/asian-shares-retreat-from-rally-south-korea-raises-rates-2599981",
+            "urlToImage": "https://i-invdn-com.investing.com/news/indicatornews_5_800x533_L_1412601619.jpg",
+            "publishedAt": "2021-08-26T06:15:00Z",
+            "content": "By Alun John HONG KONG (Reuters) - Asian shares retreated on Thursday, brushing off an upbeat Wall Street lead as the Delta coronavirus variant's spread darkened the regional mood while a South Kore… [+3765 chars]"
+        }
+    ]
+}
